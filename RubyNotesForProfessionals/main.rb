@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# code by fre3vi
+# code by fre3vil
 
 puts "hello ruby"
 
